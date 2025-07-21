@@ -1,0 +1,71 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "Ne8V99KwBp49ZzAgXyojB",
+      "name": "",
+      "value": "#ff0000"
+    },
+    {
+      "id": "AafatvIf0xWV2AqOikg31",
+      "name": "",
+      "value": "#03d100"
+    },
+    {
+      "id": "5YPU-ZmwoaaC00chLNpxF",
+      "name": "",
+      "value": "#ffffff"
+    },
+    {
+      "id": "JudTu7m-I9kfy0acybMMz",
+      "name": "",
+      "value": "#fbff1f"
+    },
+    {
+      "id": "Vp8vj1o1s5w6cU4wQ_r4C",
+      "name": "",
+      "value": "#221fff"
+    },
+    {
+      "id": "A0m--_ljQZ1PDx5JajGzo",
+      "name": "",
+      "value": "#ff8800"
+    },
+    {
+      "id": "wBG6SHHL7_SmAtTUNcOxl",
+      "name": "",
+      "value": "#ff24ba"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "5-Templates",
+      "color": "AafatvIf0xWV2AqOikg31"
+    },
+    {
+      "path": "3-Tags",
+      "color": "JudTu7m-I9kfy0acybMMz"
+    },
+    {
+      "path": "1-Rough Notes",
+      "color": "Ne8V99KwBp49ZzAgXyojB"
+    },
+    {
+      "path": "2-Source Material",
+      "color": "Vp8vj1o1s5w6cU4wQ_r4C"
+    },
+    {
+      "path": "4-Indexes",
+      "color": "A0m--_ljQZ1PDx5JajGzo"
+    },
+    {
+      "path": "7-Checklists",
+      "color": "wBG6SHHL7_SmAtTUNcOxl"
+    },
+    {
+      "path": "6-Full Notes",
+      "color": "5YPU-ZmwoaaC00chLNpxF"
+    }
+  ]
+}
