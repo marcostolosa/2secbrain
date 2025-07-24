@@ -6,6 +6,7 @@
       {
         "id": "fb92a7326468d322",
         "type": "tabs",
+        "dimension": 67.39562624254472,
         "children": [
           {
             "id": "324bf33a9627e499",
@@ -13,15 +14,57 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Rough Notes/Engenharia Reversa/Arquitetura/Memória.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Memória"
+              "title": "README"
             }
           }
         ]
+      },
+      {
+        "id": "0698e19a2c7b3993",
+        "type": "split",
+        "dimension": 32.60437375745527,
+        "children": [
+          {
+            "id": "a4ce405b5bad4aca",
+            "type": "tabs",
+            "dimension": 56.666666666666664,
+            "children": [
+              {
+                "id": "69134ca8e7645f2c",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Visualização em gráfico"
+                }
+              }
+            ]
+          },
+          {
+            "id": "2a2959bd3ff340de",
+            "type": "tabs",
+            "dimension": 43.333333333333336,
+            "children": [
+              {
+                "id": "2b9c3e394a686ced",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Nova aba"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -94,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Rough Notes/Engenharia Reversa/Arquitetura/Memória.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Memória"
+              "title": "Links inversos para README"
             }
           },
           {
@@ -113,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Rough Notes/Engenharia Reversa/Arquitetura/Memória.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Memória"
+              "title": "Links de saída para README"
             }
           },
           {
@@ -142,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Rough Notes/Engenharia Reversa/Arquitetura/Memória.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Memória"
+              "title": "Sumário de README"
             }
           },
           {
@@ -164,8 +207,29 @@
               "icon": "lucide-archive",
               "title": "Todas as propriedades"
             }
+          },
+          {
+            "id": "fbd7cc598ddffba8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "3f0189688c2cfbff",
+            "type": "leaf",
+            "state": {
+              "type": "link-tree",
+              "state": {},
+              "icon": "list-tree",
+              "title": "Link Tree"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -183,21 +247,28 @@
       "publish:Publicar mudanças": false,
       "markdown-importer:Abrir importador Markdown": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "link-tree:Link Tree": false
+      "link-tree:Link Tree": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Criar um novo quadro": false
     }
   },
   "active": "324bf33a9627e499",
   "lastOpenFiles": [
-    "README.md",
+    "PARA/MISSÕES DO DIA.md",
+    "Aula sobre obsidian.md",
     "1-Rough Notes/Engenharia Reversa/Arquitetura/Memória.md",
+    "PARA/Templates/Template para Estudo.md",
+    "PARA/TAREFAS DO DIA.md",
+    "README.md",
+    "PARA/Templates",
+    "PARA/4.Arquivos",
+    "PARA/3.Recursos",
+    "PARA/2.Áreas",
+    "PARA/1.Projetos",
+    "PARA",
     "1-Rough Notes/Engenharia Reversa/Arquitetura",
     "1-Rough Notes/Engenharia Reversa",
     "7-Checklists",
-    "6-Full Notes",
-    "5-Templates",
-    "4-Indexes",
-    "3-Tags",
-    "2-Source Material",
-    "1-Rough Notes"
+    "6-Full Notes"
   ]
 }

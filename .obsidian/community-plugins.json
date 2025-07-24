@@ -8,5 +8,9 @@
   "obsidian-hover-editor",
   "link-exploder",
   "link-tree",
-  "obsidian-mind-map"
+  "obsidian-mind-map",
+  "obsidian-tasks-plugin",
+  "templater-obsidian",
+  "calendar",
+  "obsidian-kanban"
 ]
