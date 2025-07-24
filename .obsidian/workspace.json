@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "PARA/Templates/study-template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "study-template"
             }
           }
         ]
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "PARA/Templates/study-template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para README"
+              "title": "Links inversos para study-template"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "PARA/Templates/study-template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para README"
+              "title": "Links de saída para study-template"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "PARA/Templates/study-template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de README"
+              "title": "Sumário de study-template"
             }
           },
           {
@@ -254,12 +254,19 @@
   },
   "active": "324bf33a9627e499",
   "lastOpenFiles": [
+    "PARA/Templates/study-template.md~",
+    "PARA/Templates/task-template.md",
+    "PARA/Templates/task-template.md~",
+    "PARA/Templates/study-template.md",
+    "PARA/Templates/summary-template.md",
+    "PARA/Templates/summary-template.md~",
+    "PARA/Templates/daily-journal.md",
+    "README.md",
     "PARA/MISSÕES DO DIA.md",
     "Aula sobre obsidian.md",
     "1-Rough Notes/Engenharia Reversa/Arquitetura/Memória.md",
     "PARA/Templates/Template para Estudo.md",
     "PARA/TAREFAS DO DIA.md",
-    "README.md",
     "PARA/Templates",
     "PARA/4.Arquivos",
     "PARA/3.Recursos",
@@ -267,8 +274,6 @@
     "PARA/1.Projetos",
     "PARA",
     "1-Rough Notes/Engenharia Reversa/Arquitetura",
-    "1-Rough Notes/Engenharia Reversa",
-    "7-Checklists",
-    "6-Full Notes"
+    "1-Rough Notes/Engenharia Reversa"
   ]
 }
